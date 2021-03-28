@@ -1,0 +1,15 @@
+h2, #red, #blue, #green, #purple, #orange, .brown, div{
+    Font-weight: bold;
+}
+h2{
+    text-align: center;
+}
+#red{color:red;}
+#blue{color:blue;}
+#green{color: greenyellow;}
+#purple{color: purple;}
+#orange{color:Orange;}
+.brown{color:saddlebrown;}
+a{text-decoration: none;}
+span{font-weight: bold;}
+div{font-size :20px;}
