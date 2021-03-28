@@ -2,6 +2,7 @@ h2, #red, #blue, #green, #purple, #orange, .brown, div{
     Font-weight: bold;
 }
 h2{
+    font-size: 30px;
     text-align: center;
 }
 #red{color:red;}
